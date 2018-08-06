@@ -4,6 +4,9 @@
         "aciklama": "ByCat API Hızmetleri",
         "url": "https://raw.githubusercontent.com/kubilayuzun08/myapi/master/tr.json"
     },
+    "sayi": {
+        "espiri": "3"
+    },
     "espiri": {
         "1": "-Fransızlar ben sızlamam",
         "2": "-Bu espiriye biri gerçekten güldümü \n +Ben gülüyorum",
