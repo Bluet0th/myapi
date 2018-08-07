@@ -5,11 +5,12 @@
         "url": "https://raw.githubusercontent.com/kubilayuzun08/myapi/master/tr.json"
     },
     "sayi": {
-        "espiri": "3"
+        "espiri": "4"
     },
     "espiri": {
         "1": "-Fransızlar ben sızlamam",
         "2": "-Bu espiriye biri gerçekten güldümü \n +Ben gülüyorum",
-        "3": "-Soğuk espiri yapayım mı? \n +Yap \n -Kaç derece olsun"
+        "3": "-Soğuk espiri yapayım mı? \n +Yap \n -Kaç derece olsun",
+        "4": "-Lanrdon botu berbat. \n +Adı lardon deilki sjsjswj"
     }
 }
